@@ -9,53 +9,48 @@ This is just a app I design after learning basic Python.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Numpy - Newest version
+Matplotlib - Newest version
+Pandas - v1.5.3
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Just download it.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Login GUI: 
+Username and password (by default) – user1, pass1 | user2, pass2
+Create account will require user to input their username and password in the corresponding boxes first then click the create account button.
+Forget password will require user to input their username only and then click on the forget password button. If the username exists, the bottom of GUI will show the corresponding password.
 
-## Help
+CMD:
+Choose 1-4 according to your choice.
+For 1: date: TBD (e.g.: 11/26/2023 in DD/MM/YYYY format)
+	Value: TBD (must be number)
+	Operation: TBD (either deposit or withdrawal)
+	Category: TBD (e.g., Drink, transportation, Food, Salary)
+	Saving Goal: Y if you want to set a save goal, otherwise N.
+For Y, it will ask you to input more info like the value of the saving goal, the start date and the end date of saving goal.
+For 2: N/A, it will just show the graph, you will need to close the first graph first (line graph) 	to see the second graph (dot graph).
+For 3: Sign out and go back to 1.
+For 4: Exit program.
 
-Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+python money.py
 ```
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Me
+[@Me](www.linkedin.com/in/suikit4)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+All by me.
