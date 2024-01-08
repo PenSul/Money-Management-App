@@ -40,13 +40,6 @@ For 4: Exit program.
 python money.py
 ```
 
-## Authors
-
-Contributors names and contact info
-
-Me
-[@Me]((https://github.com/PenSul))
-
 ## License
 
 This project is licensed under the [MIT] License - see the LICENSE.md file for details
