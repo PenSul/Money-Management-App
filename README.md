@@ -9,6 +9,7 @@ This is just a app I design after learning basic Python.
 
 ### Dependencies
 
+#### Library
 Numpy - Newest version
 
 Matplotlib - Newest version
