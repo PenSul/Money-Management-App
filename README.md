@@ -45,7 +45,7 @@ python money.py
 Contributors names and contact info
 
 Me
-[@Me](www.linkedin.com/in/suikit4)
+[@Me]([https://github.com/PenSul])
 
 ## License
 
