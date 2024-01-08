@@ -1,10 +1,9 @@
-# Project Title
-
-Simple overview of use/purpose.
+# Money Management App
+Since money is a thing, financial management becomes much more important. Because of some real-life problems such as unemployment or due to personal wants, a large sum of money may be needed. Therefore, the habit of saving money is required to counter these situations. As a result, an app for financial management will be needed and this is created.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is just a app I design after learning basic Python.
 
 ## Getting Started
 
