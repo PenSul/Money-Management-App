@@ -45,7 +45,7 @@ python money.py
 Contributors names and contact info
 
 Me
-[@Me]([https://github.com/PenSul])
+[@Me]((https://github.com/PenSul))
 
 ## License
 
