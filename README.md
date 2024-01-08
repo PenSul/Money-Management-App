@@ -9,9 +9,9 @@ This is just a app I design after learning basic Python.
 
 ### Dependencies
 
-Numpy - Newest version
-Matplotlib - Newest version
-Pandas - v1.5.3
+Numpy - Newest version	
+Matplotlib - Newest version	
+Pandas - v1.5.3	
 
 ### Installing
 
